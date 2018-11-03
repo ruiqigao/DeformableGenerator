@@ -8,4 +8,5 @@ python main.py --category face --test True --ckpt model.ckpt-990 --sample_size 1
 
 # Output
 ***_app.png: generated appearance (without landmarks warping)
+
 ***_img.png: generated image (appearance + landmarks)
